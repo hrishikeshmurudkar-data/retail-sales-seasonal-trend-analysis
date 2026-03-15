@@ -21,6 +21,8 @@ Key features include:
 - Jupyter Notebook
 
 ## Project Structure
+
+```
 retail-sales-seasonal-trend-analysis
 │
 ├── Dataset
@@ -35,10 +37,11 @@ retail-sales-seasonal-trend-analysis
 ├── visuals
 │   ├── monthly_sales_trend.png
 │   ├── seasonal_heatmap.png
-│   ├── supplier_sales.png
+│   └── supplier_sales.png
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## Key Analysis Performed
 - Data cleaning and preprocessing
