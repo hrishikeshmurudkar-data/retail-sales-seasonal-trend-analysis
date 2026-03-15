@@ -67,13 +67,13 @@ Key fields include:
 ## Visualizations
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](Visuals/monthly_sales_trend.png)
+![Monthly Sales Trend](Visuals/Monthly_Sales_Trend.png)
 
 ### Seasonal Heatmap
-![Seasonal Heatmap](Visuals/seasonal_heatmap.png)
+![Seasonal Heatmap](Visuals/Seasonal_Heatmap.png)
 
 ### Supplier Sales Analysis
-![Supplier Sales](Visuals/supplier_sales.png)
+![Supplier Sales](Visuals/Supplier_Sales.png)
 
 ---
 
