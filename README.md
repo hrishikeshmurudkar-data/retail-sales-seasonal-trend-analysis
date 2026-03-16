@@ -130,7 +130,7 @@ notebooks/retail_sales_analysis.ipynb
 If you have any feedback or suggestions, feel free to connect with me.
 
 LinkedIn:  
-https://www.linkedin.com/in/YOUR-LINKEDIN/
+https://www.linkedin.com/in/hrishikeshmurudkar-data/
 
 ---
 
