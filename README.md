@@ -69,8 +69,8 @@ Key fields include:
 ### Monthly Sales Trend
 ![Monthly Sales Trend](Visuals/monthly_sales_trend.png)
 
-### Seasonal Heatmap
-![Seasonal Heatmap](Visuals/sales_heatmap.png)
+### Sales Heatmap
+![Sales Heatmap](Visuals/sales_heatmap.png)
 
 ### Supplier Sales Analysis
 ![Supplier Sales](Visuals/supplier_by_sales.png)
