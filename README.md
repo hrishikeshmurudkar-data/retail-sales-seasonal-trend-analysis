@@ -1,13 +1,13 @@
-# Retail Sales & Seasonal Trend Analysis
+# 🛒 Retail Sales & Seasonal Trend Analysis
 
-## Project Overview
+## 📊 Project Overview
 This project analyzes retail and warehouse sales data to uncover seasonal demand patterns, evaluate product and supplier performance, and identify key sales trends.  
 
 Using Python-based exploratory data analysis (EDA), the project transforms raw sales data into meaningful insights that can help businesses improve inventory planning, supplier management, and sales strategy.
 
 ---
 
-## Business Problem
+## 🎯 Business Problem
 Retail businesses generate large volumes of transactional data, making it difficult to quickly identify meaningful sales patterns.  
 
 Key business questions addressed in this project:
@@ -21,7 +21,7 @@ By analyzing historical sales data, businesses can better understand purchasing 
 
 ---
 
-## Dataset
+## 📂 Dataset
 The dataset contains retail and warehouse sales records across multiple suppliers and product categories.
 
 Key fields include:
@@ -36,7 +36,7 @@ Key fields include:
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - **Python**
 - **Pandas** – Data manipulation and analysis
 - **NumPy** – Numerical operations
@@ -46,7 +46,7 @@ Key fields include:
 
 ---
 
-## Key Analysis Performed
+## 🔍 Key Analysis Performed
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Monthly sales trend analysis
@@ -56,7 +56,7 @@ Key fields include:
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 - Sales show noticeable **seasonal fluctuations across different months**.
 - A small number of suppliers contribute a **significant portion of total sales**.
 - Retail sales demonstrate **clear monthly demand patterns**.
@@ -64,7 +64,7 @@ Key fields include:
 
 ---
 
-## Visualizations
+## 📈 Visualizations
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](Visuals/monthly_sales_trend.png)
@@ -77,7 +77,7 @@ Key fields include:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 retail-sales-seasonal-trend-analysis
@@ -102,18 +102,38 @@ retail-sales-seasonal-trend-analysis
 
 ---
 
-## How to Run the Project
+## ⚙️ How to Run the Project
 
 1. Clone the repository
+
+```
 git clone https://github.com/hrishikeshmurudkar-data/retail-sales-seasonal-trend-analysis.git
+```
 
 2. Install required libraries
+
+```
 pip install -r requirements.txt
+```
 
 3. Run the Jupyter Notebook
-Open notebooks/retail_sales_analysis.ipynb
 
+Open:
 
-## Author
+```
+notebooks/retail_sales_analysis.ipynb
+```
+
+---
+
+## 💬 Feedback
+If you have any feedback or suggestions, feel free to connect with me.
+
+LinkedIn:  
+https://www.linkedin.com/in/YOUR-LINKEDIN/
+
+---
+
+## 👨‍💻 Author
 **Hrishikesh Murudkar**  
 Aspiring Data Analyst
